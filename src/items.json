@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Gucci Men's Shirt(L)",
+      "category": "electronics",
+      "image": "https://i.postimg.cc/zvwY15Tb/camera.jpg",
+      "price": "1",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "H&M Dress",
+      "category": "electronics",
+      "image":"https://i.postimg.cc/44ShFKfZ/dress2.jpg",
+      "price": "2",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "US Polo Neck Tshirt",
+      "category": "electronics",
+      "image": "https://i.postimg.cc/XJ28GkmK/Polo-Neck-Tshirt.jpg",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Puma Shoes",
+      "category": "electronics",
+      "image": "https://i.postimg.cc/Gt8kBwkr/shoes.jpg",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Kid's Dress",
+      "category": "electronics",
+      "image": "https://i.postimg.cc/brFdt3xh/dress.jpg",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Titan Men's Watch",
+      "category": "electronics",
+      "image": "https://i.postimg.cc/FswCmsZX/watch.jpg",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 0
+    }
+  ]
+}
