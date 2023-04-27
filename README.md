@@ -1,4 +1,4 @@
-# Dappazon
+# Shoppping Management Website Using Blockchain
 
 ## Technology Stack & Tools
 
